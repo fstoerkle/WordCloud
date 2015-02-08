@@ -1,5 +1,7 @@
 # WordCloud
 
+**WARNING: This is not finished and work in progress!**
+
 Create a word cloud, heavily inspired by [Wordle](http://wordle.net).
 
 
