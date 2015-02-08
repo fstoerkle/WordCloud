@@ -11,4 +11,4 @@ Create a word cloud, heavily inspired by [Wordle](http://wordle.net).
 - [More in-depth explanation of Wordle's implementation by its creator](http://static.mrfeinberg.com/bv_ch03.pdf)
 
 ## License
-MIT.
+MIT license, see [LICENSE](LICENSE.txt) file.
